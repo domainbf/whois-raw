@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/moneals/whois-raw.svg?branch=master)](https://travis-ci.org/moneals/whois-raw) [![Coverage Status](https://coveralls.io/repos/github/moneals/whois-raw/badge.svg?branch=master)](https://coveralls.io/github/moneals/whois-raw?branch=master)
-# whois-raw
+# whois-ls
 WHOIS client for Node that returns raw whois data. 
 
 If you would like nicely parsed whois data you should consider using https://github.com/moneals/whois-parsed
