@@ -1,6 +1,6 @@
 {
   "name": "whois-ls",
-  "version": "1.0.0",  // 确保每次发布时递增这个版本号
+  "version": "1.0.0",  
   "description": "WHOIS client for Node",
   "main": "index.js",
   "publishConfig": {
